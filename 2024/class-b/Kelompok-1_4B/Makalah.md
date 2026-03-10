@@ -1,1 +1,15 @@
+# **HUBUNGAN SAINS DAN AGAMA: SEJARAH KONFLIK, PERBEDAAN METODE, DAN ANALISIS KETERKAITANNYA**
+*(Makalah ini dibuat untuk memenuhi tugas Mata Kuliah Perpustakaan dan Arsip Digital)*
+
+**Dosen Pengampu:**
+ Al Muhdil Karim, S. IP., M. Hum.
+
+**Dibuat Oleh: Kelompok 1 - 4B**
+- SAYYIDA NAFISA AULIA			 12402051030049
+- NICKY PUJI RAHAYU			     12402051030057
+- MUNAZI JULITA PRATIWI 		 12402051050120
+- KAYLA SHITA SABILA			   12402051050126
+
+
+
 
