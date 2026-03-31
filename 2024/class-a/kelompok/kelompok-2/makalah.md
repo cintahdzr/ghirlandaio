@@ -68,7 +68,7 @@ Dengan demikian, substansi teknologi dalam sudut pandang hiperrealitas berdasark
 
 **4. Perbedaan antara Teknologi sebagai Mitos dan Teknologi sebagai Alat**
 
-Perkembangan teknologi di era sekarang mengalami perubahan yang cukup besar, tidak hanya sebagai alat bantu manusia tetapi juga sebagai kekuatan yang mampu merubah cara manusia memahami realitas atau kenyataan. Dalam perspektif Homo Deus teknologi telah berkembang menjadi alat yang tidak hanya membantu aktivitas manusia, tetapi juga membantu cara mereka berpikir dan mengambil keputusan. Hal ini dapat di analisis melalui dua sudut pandang, yaitu teknologi sebagai mitos dan teknologi sebagai alat, yang memiliki perbedaan mendasar dalam hal posisi kendali dan tingkat kepercayaan manusia terhadap teknologi.
+Perkembangan teknologi di era sekarang mengalami perubahan yang cukup signifikan, tidak hanya sebagai alat bantu manusia tetapi juga sebagai kekuatan yang mampu merubah cara manusia memahami realitas atau kenyataan. Dalam perspektif Homo Deus teknologi telah berkembang menjadi alat yang tidak hanya membantu aktivitas manusia, tetapi juga membantu cara mereka berpikir dan mengambil keputusan. Hal ini dapat di analisis melalui dua sudut pandang, yaitu teknologi sebagai mitos dan teknologi sebagai alat, yang memiliki perbedaan mendasar dalam hal posisi kendali dan tingkat kepercayaan manusia terhadap teknologi.
 
 Dalam sudut pandang sebagai mitos, teknologi bisa diartikan sebagai kepercayaan baru yang selalu dianggap benar dan hampir mutlak oleh manusia tanpa memikirkan kebenaran aslinya. Kita bisa amati di kehidupan sehari-hari dalam penggunaan platform digital seperti TikTok atau Instagram. Algoritma yang ada pada platform tersebut terus merekomendasikan konten-konten dari perilaku pengguna, lalu membentuk preferensi dan kebiasaan dari pengguna itu sendiri. Pengguna cenderung akan mempercayai rekomendasi dari algoritma tersebut dan merasa bahwa teknologi lebih memahami dirinya sendiri.
 
@@ -78,3 +78,9 @@ Perbedaan antara kedua sudut pandang tersebut bisa dilihat dari cara manusia men
 
 ## BAB 3 Penutup
 **1. Kesimpulan**
+
+Posisi teknologi dalam kehidupan manusia saat ini telah mengalami perubahan yang cukup signifikan. Teknologi yang awalnya hanya berfungsi sebagai alat bantu kini mulai dipandang sebagai sebuah keyakinan baru, bahkan kadang-kadang tanpa mempertimbangkan lagi. Hal ini terlihat dari tingkat ketergantungan manusia terhadap data dan algoritma, sehingga keputusan dan pola pikir pun ikut terpengaruh. Di sisi lain, fenomena ini juga berhubungan dengan sudut pandang hiperrealitas, di mana apa yang kita anggap sebagai kenyataan ternyata banyak dipengaruhi oleh teknologi, contohnya seperti media sosial atau rekomendasi algoritma yang sering kali terasa lebih meyakinkan daripada pengalaman langsung.
+
+Melalui pengalaman sehari-hari, terlihat bahwa teknologi tidak hanya sekadar mendukung, tetapi juga membentuk perspektif kita tentang dunia. Terkadang, kita lebih mempercayai aplikasi peta dibandingkan ingatan kita sendiri, atau lebih meyakini konten di media sosial daripada kenyataan yang sesungguhnya. Ini menunjukkan bahwa garis pemisah antara realitas yang sesungguhnya dan hasil yang diciptakan oleh teknologi semakin samar.
+
+Secara keseluruhan, teknologi saat ini memiliki dua sisi. Di satu sisi, tetap dapat menjadi alat yang mempermudah kehidupan manusia. Namun di sisi lain, jika terlalu diyakini tanpa disadari, teknologi dapat berfungsi seperti sebuah mitos yang terletak pada posisi kendali manusia. Oleh karena itu, penting bagi manusia untuk bersikap kritis agar manusia tetap memiliki kendali, bukannya sepenuhnya dikendalikan oleh teknologi.
