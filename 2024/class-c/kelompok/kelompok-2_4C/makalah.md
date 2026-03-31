@@ -159,6 +159,12 @@ Dalam perspektif hiperrealitas, kondisi ini menunjukkan bahwa simulasi yang diha
 
 2.4 Bagaimana perbedaan teknologi sebagai mitos dan teknologi alat menggunakan pengalaman internal dan terpersonalisasi
 
+Menurut buku Simuclara and Simulation, teknologi tidak hanya dipahami sebagai alat yang membantu berbagai aktivitas manusia saja. Namun bisa menjadi bagian dari sistem simulasi yang bisa menciptakan realitas yang sebenarnya tidak terjadi di realitas aslinya. Jean Baudrillard dalam bukunya menyatakan bahwa simulasi adalah proses penciptaan realitas oleh model yang tidak memiliki asal-usul nyata, sehingga melahirkan apa yang disebut hiperrealitas, yaitu kondisi dimana batas antara yang nyata dan tidak nyata menjadi kabur.
+
+Dalam konteks ini, perbedaan antara teknologi sebagai alat dan sebagai mitos dapat terlihat dengan jelas. Dalam pandangan teknologi sebagai alat melihat hal ini sebagai alat untuk menunjang dan membantu manusia dalam memahami realitas secara langsung, seperti membantu manusia untuk memenuhi kebutuhan informasinya melalui media sosial. Sedangkan teknologi sebagai mitos yaitu ketika kondisi teknologi tidak lagi berfungsi hanya sekedar sebagai alat bantu, tetapi sebagai sistem yang dapat membuat atau mengubah realitas yang ada melalui simulasi. Simulasi yang dimaksud adalah suatu kondisi dimana teknologi yang berupa informasi tidak selalu merujuk pada realitas aslinya, tetapi dapat dipercaya karena terus dibuat dan disebarkan. Akibatnya, individu tidak lagi berinteraksi langsung dengan realitas, melainkan dengan representasi yang dibentuk oleh teknologi. Hal ini dapat mengubah realitas yang sebelumnya tidak terjadi seperti apa yang digambarkan, namun bisa terjadi karena adanya hiperrealitas. Dengan demikian, teknologi sebagai mitos bekerja secara halus dengan membentuk persepsi dan kesadaran individu, sehingga manusia cenderung mempercayai dan bertindak berdasarkan realitas semu yang dihasilkan oleh sistem teknologi tersebut.
+
+
+
 
 
 ## DAFTAR PUSTAKA 
