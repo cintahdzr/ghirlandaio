@@ -1,7 +1,7 @@
 Nama: Rizkyna Amor Zevia
 NIM: 12402051030042
 
-# H1 Apa perbedaan teknologi sebagai mitos dan teknologi sebagai alat?
+# Apa perbedaan teknologi sebagai mitos dan teknologi sebagai alat?
 
 Selama ini, manusia menganggap teknologi yang ada sebagai sebuah alat, padahal kenyataannya manusia hanya tahu untuk menghasilkan 
 sesuatu menggunakan teknologi yang mereka juga tidak tahu bagaimana cara tekonologi itu bekerja, padahal pada kenyataannya jika 
