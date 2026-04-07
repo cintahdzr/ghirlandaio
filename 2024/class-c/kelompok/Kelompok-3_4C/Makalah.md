@@ -44,7 +44,7 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 
 **<p align="center">BAB I</p>**
 **<p align="center">PENDAHULUAN</p>**
-
+<br>
 
 **1.1. Latar Belakang**
 
@@ -85,6 +85,7 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 
 **<p align="center">BAB II</p>**
 **<p align="center">PEMBAHASAN</P>**
+<br>
 
 **2.1. Pola Hubungan antara Negara dan Teknologi pada Rentang Tahun 1960-Sekarang**
 <p align="justify">
@@ -138,6 +139,7 @@ Sementara itu, dalam Troublemakers of Silicon Valley, digambarkan bahwa pada awa
 
 **<p align="center">BAB III</p>**
 **<p align="center">PENUTUP</p>**
+<br>
 
 **3.1. Kesimpulan**
 
