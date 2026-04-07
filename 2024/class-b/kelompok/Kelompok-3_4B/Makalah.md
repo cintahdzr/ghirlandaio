@@ -115,7 +115,8 @@ dalam konteks digital, kode sumber dapat dipandang sebagai "alat produksi baru"
 yang menentukan siapa yang berhak mengakses, mengubah, dan memanfaatkanya.
 kutipan Marx : “The accumulation of capital, therefore, is concentration of the means of production and of the command over labour.” (Das Kapital, Vol. I)
 “Akumulasi kapital, dengan demikian, adalah konsentrasi alat produksi dan penguasaan atas tenaga kerja.”
-closed scourse menceriminkan logika kapitalisme: kode diprivatisasi, akses dibatasi, dan keuntungan terkonsentrasi pada pemilik modal. 
+closed scourse menceriminkan logika kapitalisme: kode diprivatisasi, akses dibatasi, dan keuntungan terkonsentrasi pada pemilik modal.
+
 sebaliknya, open source mencerminkan semangat kolektif:kode dibuka untuk semua, memungkinkan kolaborasi, dan menentang monopoli kapital. Sikap terhadap open source atau closed source pada ahirnya bukan hanya pilihan teknis, melainkan
 pilihan politik dan ideologis. Mendukung open source berarti berpihak pada
 distribusi pengetahuan dan aksesyang lebih, sejalan dengan gagasan Marx tentang 
@@ -123,6 +124,9 @@ kepemilikan bersama.sebaliknya, mendukung closed source berarti menerima struktu
 kapitalisme yang menekan kontrol, profit, dan eksklusivitas.
 Open source berarti kode dibuka, bisa dipakai dan dikembangkan bersama. 
 Closed source berarti kode ditutup, hanya pemilik modal yang bisa kontrol dan ambil untung.
+
+sikap kita terhadap kode sumber terbuka (*open source*) atau tertutup (*closed source*) sebaiknya tidak bersifat kaku, melaikan dilihat sebagai alat yang digunakan sesuai dengan tahap perkembangan inovasi tersebut. *Troublemakers* mengajarkan kita bahwa dunia digital tumbuh paling pesat justru ketika ada ruang untuk kolaborasi publik sekaligus ruang untuk kompetensi privat.
+
 
 ## 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi
 Marx menjelaskan bahwa ideologi adalah bentuk "kesadaran palsu" yang
