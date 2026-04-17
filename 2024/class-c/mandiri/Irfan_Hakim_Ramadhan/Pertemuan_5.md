@@ -15,7 +15,10 @@ Dalam perpustakaan digital, data menjadi komponen utama yang mendukung seluruh l
 Data pengguna merupakan data yang berkaitan dengan identitas dan aktivitas pengguna, seperti nama, email, serta riwayat pencarian dan peminjaman. Data ini termasuk kategori dengan tingkat sensitivitas tinggi karena bersifat data pribadi. Ancaman yang sering terjadi meliputi pencurian identitas dan kebocoran data sensitif. Jika tidak dilindungi dengan baik, data pengguna dapat disalahgunakan oelh pihak yang tidak bertanggung jawab dan menyebabkan pelanggaran privasi. Selain itu, kebocoran data juga dapat menurunkan kepercayaan pengguna terhadap pelayanan perpustakaan digital. Oleh karena itu, diperlukan perlindungan yang kuat seperti enkripsi dan pembatas akses.
 
 #### Data Koleksi
+Data koleksi adalah data yang berkaitan dengan bahan pustaka digital seperti e-book, jurnal, artikel dan lainnya. Data ini memiliki tingkat sensitivitas sedang karena hanya untuk ditujukan untuk akses oleh pengguna (pemustaka), namun tetap perlu perlindungan yaitu terkait hak cipta dan keaslian informasi. Resiko yang dapat terjadi antara lain penyalahgunaan, pembajakan, serta perubahan isi data yang dapat merusak integritas informasi. Jika tidak dilindungi dengan baik, kualitas informasi akan menurun yang akan merugikan pemustaka bahkan penulis dan penerbitnya. Oleh karena itu, perlindungan terhadap data koleksi tetap diperlukan meskipun tidak se intens data pengguna.
 
+#### Data Administratif
+Data administratif merupakan data yang digunakan untuk mengelola sistem perpustakaan digital seperti data petugas, pengaturan sistem, dan hak akses pengguna. Data ini memiliki tingkat sensitivitas tinggi karena berhubungan langsung dengan kontrol sistem. Ancaman yang dapat terjadi meliputi akses ilegal, manipulasi data serta gangguan terhadao sistem. Jika data ini tidak diamankan dengan baik, dampaknya bisa sangat besar, seperti kerusakan sistem dan hilangnya kontrol terhadap layanan perpustakaan digital.
 
 ### Kesimpulan
 
